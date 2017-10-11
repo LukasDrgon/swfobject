@@ -1,6 +1,6 @@
 # swfobject
 
-[![Made by unshift](https://img.shields.io/badge/made%20by-unshift-00ffcc.svg?style=flat-square)](http://unshift.io)[![Version npm](http://img.shields.io/npm/v/swfobject.svg?style=flat-square)](http://browsenpm.org/package/swfobject)[![IRC channel](http://img.shields.io/badge/IRC-irc.freenode.net%23unshift-00a8ff.svg?style=flat-square)](http://webchat.freenode.net/?channels=unshift)
+[![Made by unshift](https://img.shields.io/badge/made%20by-unshift-00ffcc.svg?style=flat-square)](http://unshift.io)[![Version npm](http://img.shields.io/npm/v/swfobject.svg?style=flat-square)](http://browsenpm.org/package/swfobject)[![IRC channel](http://img.shields.io/badge/IRC-irc.freenode.net%23unshift-00a8ff.svg?style=flat-square)](http://webchat.freenode.net/?channels=unshift)[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/swfobject/badge)](https://www.jsdelivr.com/package/npm/swfobject)
 
 This a browserify compatible version of the `swfobject` library which is used to
 embed flash objects in your browsers.
